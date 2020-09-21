@@ -58,14 +58,12 @@ experiences:
           - Handled all Tier 2 support requests
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Scheduler
+        link: "https://github.com/JayMartensCodes/scheduler"
+        tagline: "Scheduler is an intro to React style apps that covers many fundamentals skills. 
+        The biggest takeaways I have from Scheduler are working with websockets, axios, state management, passing props, and components."
 
       - title: DevStudio
         link: "#"
