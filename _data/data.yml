@@ -118,3 +118,6 @@ skills:
     toolset:
       - name: Languages
         skills: HTML5, CSS, Javascript, Ruby, C#      
+
+      - name: Frameworks
+        skills: ReactJS, NodeJS, jQuery, Rails, ExpressJS, AngularJS, Bootstrap  
