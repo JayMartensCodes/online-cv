@@ -109,7 +109,7 @@ skills:
         skills: HTML5, CSS, Javascript, Ruby, C#    
 
       - name: "Frameworks, Libraries & Environements"
-        skills: ReactJS, NodeJS, jQuery, Rails, ExpressJS, AngularJS, Bootstrap, ACtiveRecord, EJS, Ajax  
+        skills: ReactJS, NodeJS, jQuery, Rails, ExpressJS, AngularJS, Bootstrap, ActiveRecord, EJS, Ajax  
 
       - name: "Systems, CMS & Databases"
         skills: mySQL, PostgreSQL, MongoDB, Git
