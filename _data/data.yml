@@ -72,12 +72,12 @@ projects:
 
       - title: Tweeter
         link: "https://github.com/JayMartensCodes/tweeter"
-        tagline: "Tweeter is a simple, single-page Twitter clone. The purpose of this app is to practice front-end development skills (CSS, flexboxes, responsive design)."
+        tagline: "A simple, single-page Twitter clone. The purpose of this app is to practice front-end development skills (CSS, flexboxes, responsive design)."
         stack: "HTML5, CSS, jQuery, NodeJS, ExpressJS"
 
       - title: TinyApp
         link: "https://github.com/JayMartensCodes/tinyapp"
-        tagline: "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly)."
+        tagline: "A full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly)."
         stack: "HTML, CSS, EJS, Bootstrap, NodeJS, ExpressJS"
 
 publications:
