@@ -19,9 +19,9 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        Full-stack web developer with a past in competitive gaming. Always push myself to refine my skills
+        Full-stack web developer with a past in competitive gaming. Always pushing myself to refine my skills
         and to constantly improve. With its always evolving technologies, web development
-        is the perfect job to scratch my itch of constant self improvement. Love working with teams, and 
+        is the perfect job to scratch my itch of constant self improvement. Love working with teams, and am
         always happy to tackle challenging problems.
 
 
@@ -62,24 +62,23 @@ projects:
     assignments:
       - title: Scheduler
         link: "https://github.com/JayMartensCodes/scheduler"
-        tagline: "Scheduler is an intro to React style apps that covers many fundamentals skills. 
-        The biggest takeaways I have from Scheduler are working with websockets, axios, state management, passing props, and components."
+        tagline: "A simple React app that allows for interviews to be scheduled in realtime."
+        stack: "React, NodeJS, ExpressJS, PostgreSQL"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Jungle
+        link: "https://github.com/JayMartensCodes/jungle-rails"
+        tagline: "An e-commerce website that I was tasked with making changes and adding features."
+        stack: "Ruby on Rails, Stripe, PostgreSQL"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Tweeter
+        link: "https://github.com/JayMartensCodes/tweeter"
+        tagline: "Tweeter is a simple, single-page Twitter clone. The purpose of this app is to practice front-end development skills (CSS, flexboxes, responsive design)."
+        stack: "HTML5, CSS, jQuery, NodeJS, ExpressJS"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: TinyApp
+        link: "https://github.com/JayMartensCodes/tinyapp"
+        tagline: "TinyApp is a full stack web application built with Node and Express that allows users to shorten long URLs (à la bit.ly)."
+        stack: "HTML, CSS, EJS, Bootstrap, NodeJS, ExpressJS"
 
 publications:
     title: Publications
