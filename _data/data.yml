@@ -19,7 +19,12 @@ sidebar:
 career-profile:
     title: About Me
     summary: |
-        Full-stack web developer 
+        Full-stack web developer with a past in competitive gaming. Always push myself to refine my skills
+        and to constantly improve. With its always evolving technologies, web development
+        is the perfect job to scratch my itch of constant self improvement. Love working with teams, and 
+        always happy to tackle challenging problems.
+
+
 education:
     - degree: Web Development Bootcamp
       university: Lighthouse Labs
@@ -105,13 +110,13 @@ skills:
 
     toolset:
       - name: Languages
-        skills: HTML5, CSS, Javascript, Ruby, C#, Git    
+        skills: HTML5, CSS, Javascript, Ruby, C#    
 
-      - name: Frameworks
-        skills: ReactJS, NodeJS, jQuery, Rails, ExpressJS, AngularJS, Bootstrap  
+      - name: "Frameworks, Libraries & Environements"
+        skills: ReactJS, NodeJS, jQuery, Rails, ExpressJS, AngularJS, Bootstrap, ACtiveRecord, EJS, Ajax  
 
-      - name: Databases
-        skills: mySQL, PostgreSQL, MongoDB  
+      - name: "Systems, CMS & Databases"
+        skills: mySQL, PostgreSQL, MongoDB, Git
 
       - name: Testing
         skills: Cypress, Jest, Mocha, Chai  
