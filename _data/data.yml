@@ -61,7 +61,7 @@ projects:
     assignments:
       - title: Common Ground
         link: "https://github.com/JayMartensCodes/common-ground/tree/master"
-        tagline: "A app utilizing the google maps api to find points of interest between two users in real time."
+        tagline: "An app utilizing the google maps api to find points of interest between two users in real time."
         stack: "React, NodeJS, ExpressJS, PostgreSQL"
 
       - title: Scheduler
