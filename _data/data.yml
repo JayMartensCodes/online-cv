@@ -59,6 +59,11 @@ projects:
     title: Projects
 
     assignments:
+      - title: Common Ground
+        link: "https://github.com/JayMartensCodes/common-ground/tree/master"
+        tagline: "A app utilizing googles api to find the middle point between two users in real time."
+        stack: "React, NodeJS, ExpressJS, PostgreSQL"
+
       - title: Scheduler
         link: "https://github.com/JayMartensCodes/scheduler"
         tagline: "A simple React app that allows for interviews to be scheduled in realtime."
